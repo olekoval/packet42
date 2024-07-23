@@ -1,0 +1,5 @@
+"code","description","kwd_name"
+"EMERGENCY","Заклад з надання екстренної медичної допомоги","LEGAL_ENTITY_TYPE_V2"
+"OUTPATIENT","Вторинна, третинна, паліативна медична допомога та реабілітація","LEGAL_ENTITY_TYPE_V2"
+"PHARMACY","Аптека","LEGAL_ENTITY_TYPE_V2"
+"PRIMARY_CARE","Заклад з надання первинної медичної допомоги","LEGAL_ENTITY_TYPE_V2"
